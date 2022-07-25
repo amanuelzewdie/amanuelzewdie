@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Amanuel Zewdie Tadesse.
-- 👀 I’m interested in the Web development and Web Security.
+- 👀 I’m interested in the Web Design and Web Development.
 - 🌱 I’m currently learning Computer Science at HiLCoE School of Computer Science and Technology.
 - 💞️ I’m looking to collaborate on Web application development, Web design and Web Security.
 - 📫 How to reach me at amanztad@gmail.com.
