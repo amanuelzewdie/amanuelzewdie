@@ -1,5 +1,5 @@
 # 💫 About Me:
-Computer Science student with interests in web app development and SaaS.
+### Computer Science student with interests in web app development and SaaS.
 
 [![](https://visitcount.itsvg.in/api?id=amanuelzewdie&icon=0&color=0)](https://visitcount.itsvg.in)
 
@@ -10,11 +10,3 @@ Computer Science student with interests in web app development and SaaS.
 ![](https://github-readme-stats.vercel.app/api?username=amanuelzewdie&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=amanuelzewdie&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=amanuelzewdie&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
-  ## 💰 You can help me by Donating
-  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/babichulo) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
