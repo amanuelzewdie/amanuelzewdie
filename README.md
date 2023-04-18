@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **React, Node or MongoDB**
 
-- 📫 How to reach me **amanztad@gmail.com**
+- 📫 How to reach me **amanztad@gmail.com** or **+251905073288**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
